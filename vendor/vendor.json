@@ -1,0 +1,37 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "VIQ/uv98nR4uLz82FRYbRMW0HI4=",
+			"path": "golang.org/x/oauth2",
+			"revision": "9dcd33a902f40452422c2367fefcb95b54f9f8f8",
+			"revisionTime": "2018-10-17T13:59:35Z"
+		},
+		{
+			"checksumSHA1": "mEOnJQg1h4I1gfDvk5/Ysiro7Go=",
+			"path": "golang.org/x/oauth2/google",
+			"revision": "9dcd33a902f40452422c2367fefcb95b54f9f8f8",
+			"revisionTime": "2018-10-17T13:59:35Z"
+		},
+		{
+			"checksumSHA1": "hA2HiyvA5wf1u1Rxk4+OKi6Ym/g=",
+			"path": "golang.org/x/oauth2/internal",
+			"revision": "9dcd33a902f40452422c2367fefcb95b54f9f8f8",
+			"revisionTime": "2018-10-17T13:59:35Z"
+		},
+		{
+			"checksumSHA1": "z2RfcWtCJ4iOnUAVwD0CkT/kRrU=",
+			"path": "golang.org/x/oauth2/jws",
+			"revision": "9dcd33a902f40452422c2367fefcb95b54f9f8f8",
+			"revisionTime": "2018-10-17T13:59:35Z"
+		},
+		{
+			"checksumSHA1": "bMNdCTzW6GyGhLv264iVEdRuflM=",
+			"path": "golang.org/x/oauth2/jwt",
+			"revision": "9dcd33a902f40452422c2367fefcb95b54f9f8f8",
+			"revisionTime": "2018-10-17T13:59:35Z"
+		}
+	],
+	"rootPath": "github.com/therealryanbonham/grafana"
+}
